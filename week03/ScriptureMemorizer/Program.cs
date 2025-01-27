@@ -25,7 +25,7 @@ namespace ScriptureMemorizer
             Console.WriteLine();
             do
             {
-                Console.WriteLine("\n---------------START------------\n");
+                Console.Clear();
 
                 scripture.GetDisplayText();
                 Console.WriteLine("\n-------------END--------------");
